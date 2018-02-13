@@ -1,0 +1,2 @@
+I want to write something in this blank new file through console
+I will pull it from terminal and check the content
