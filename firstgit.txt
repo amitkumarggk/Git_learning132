@@ -1,2 +1,6 @@
 pwd
 this is my trial file using cat command for git learning
+itna mahina ke baad Nowfloats me aake fir se
+git revision. this shud be remote repo
+samajh lo ye programming language likha hua hai, code likha hua hai
+samjha
